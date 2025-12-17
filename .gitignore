@@ -8,6 +8,16 @@
 .vs/
 *.user
 *.suo
+Properties/
+
+# Config files
+*.config
+App.config
+
+# Data files
+*.txt
+*.json
+!README.md
 
 # NuGet
 packages/
