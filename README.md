@@ -63,12 +63,12 @@ csharp-bitirme-projesi/
 
 1. **Repoyu klonlayın:**
    ```bash
-   git clone https://github.com/Cavitbatusoylu/C-_Atolye_Bitirme_Projesi.git
+   git clone https://github.com/Cavitbatusoylu/Csharp_Atolye_Bitirme_Projesi.git
    ```
 
 2. **Projeyi açın:**
    ```bash
-   cd C-_Atolye_Bitirme_Projesi
+   cd Csharp_Atolye_Bitirme_Projesi
    ```
 
 3. **Visual Studio ile açın veya CLI kullanın:**
